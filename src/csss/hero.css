@@ -1,0 +1,10 @@
+.hero{
+   display: flex;
+   
+    
+   
+}
+
+.footer{
+    flex-direction: column;
+}
